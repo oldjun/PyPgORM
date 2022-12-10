@@ -590,7 +590,7 @@ http request, so the mysql transaction will work properly.
 
 ## <a href=#resource>Resource</a>
 
-* MySQL Reference Manuals: [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
+* PostgreSQL Reference Manuals: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
 * Psycopg : [https://www.psycopg.org/](https://www.psycopg.org/)
 
 ## <a href=#license>License</a>
